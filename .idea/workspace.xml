@@ -5,17 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a9d7ae8-30cd-44ba-aa11-02b187054802" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring Security/security-demo/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring Security/security-demo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring Security/security-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring Security/security-demo/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring Security/security-demo/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring Security/security-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring Security/security-demo/src/main/java/com/example/security_demo/SecurityDemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring Security/security-demo/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring Security/security-demo/src/test/java/com/example/security_demo/SecurityDemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring Security/security-demo/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring Security/security-demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring Security/security-demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring Security/security-demo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring Security/security-demo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring Security/security-demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring Security/security-demo/src/main/java/com/example/security_demo/SecurityDemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring Security/security-demo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring Security/security-demo/src/test/java/com/example/security_demo/SecurityDemoApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,21 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "jithinjerome"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jithinjerome&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/jithinjerome/Springboot-Projects.git",
-    "accountId": "7f369c26-8afa-4834-a161-0ba52fc97f10"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jithinjerome/Springboot-Projects.git&quot;,
+    &quot;accountId&quot;: &quot;7f369c26-8afa-4834-a161-0ba52fc97f10&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2nmlGE8tX7YzmhFKoT509ctkIxy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -51,9 +51,24 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Programming/Java/Projects/Springboot-Projects"
+    "last_opened_file_path": "D:/Programming/Java/Projects/Springboot-Projects/spring-security-demo"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Springboot-Projects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Springboot-Projects" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729586972229</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1729586993807</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729586993807</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

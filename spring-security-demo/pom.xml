@@ -8,11 +8,11 @@
 		<version>3.3.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>security-demo</artifactId>
+	<groupId>com</groupId>
+	<artifactId>spring-security-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>security-demo</name>
-	<description>Demo project for Spring Security</description>
+	<name>spring-security-demo</name>
+	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
