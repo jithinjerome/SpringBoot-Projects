@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a9d7ae8-30cd-44ba-aa11-02b187054802" name="Changes" comment="" />
+    <list default="true" id="1a9d7ae8-30cd-44ba-aa11-02b187054802" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring Security/security-demo/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring Security/security-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring Security/security-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring Security/security-demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring Security/security-demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring Security/security-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring Security/security-demo/src/main/java/com/example/security_demo/SecurityDemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring Security/security-demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring Security/security-demo/src/test/java/com/example/security_demo/SecurityDemoApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jithinjerome"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jithinjerome/Springboot-Projects.git",
+    "accountId": "7f369c26-8afa-4834-a161-0ba52fc97f10"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -36,6 +63,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729586034886</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1729586972229</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729586972229</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
